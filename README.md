@@ -8,6 +8,9 @@ For this project I explore Traditional Algorithms and CNNs
  * Explore four popular machine learning algorithms, namely logistic regression, multinomial naive Bayes, kNN and decision trees.
  * Explore of Convolutional Neural Networks.
 
+## Usage
+
+**Running the code**
 
 
 
