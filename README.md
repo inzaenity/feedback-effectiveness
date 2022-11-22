@@ -12,3 +12,5 @@ For this project I explore Traditional Algorithms and CNNs
 
 
 
+
+
