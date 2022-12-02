@@ -1,0 +1,5 @@
+,Algorithm,Average test log loss,Standard deviation
+0,Logistic regression,0.921,0.016
+1,Multinomial naive Bayes,1.068,0.136
+2,KNN,1.034,0.075
+3,Decision tree,1.526,0.239
