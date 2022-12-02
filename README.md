@@ -11,6 +11,9 @@ For this project I explore Traditional Algorithms and CNNs
 ## Usage
 
 **Running the code**
+ ```python3 main.py```
+
+
 
 
 
