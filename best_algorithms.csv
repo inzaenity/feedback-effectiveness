@@ -1,0 +1,8 @@
+,Discourse type,Best algorithm,Test log loss
+0,Lead,Logistic regression,0.812
+1,Position,Logistic regression,0.762
+2,Claim,Logistic regression,0.813
+3,Evidence,Logistic regression,0.815
+4,Counterclaim,Logistic regression,0.804
+5,Rebuttal,Logistic regression,0.928
+6,Concluding Statement,Logistic regression,0.773
