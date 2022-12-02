@@ -1,0 +1,21 @@
+,use_idf,sublinear_tf,stop_words,norm,ngram_range,max_features,lowercase,binary,class_weight,C,Mean test score,Standard deviation
+7,False,True,english,l2,"(1, 2)",,False,True,,6,0.677,0.016
+1,False,True,,l2,"(1, 3)",50000,False,True,,4,0.677,0.015
+5,False,False,english,l2,"(1, 3)",50000,False,True,,4,0.677,0.018
+0,False,True,english,l2,"(1, 3)",20000,True,False,,0.5,0.668,0.005
+11,True,False,english,l2,"(1, 1)",10000,False,True,,6,0.667,0.013
+4,False,True,english,l1,"(1, 2)",20000,True,True,,7,0.655,0.008
+10,False,True,,l2,"(1, 1)",50000,True,True,,6,0.648,0.029
+15,True,True,english,l2,"(1, 3)",,True,True,balanced,8,0.647,0.026
+16,True,False,,l1,"(1, 3)",50000,False,False,,6,0.645,0.001
+9,True,True,english,l1,"(1, 3)",50000,False,False,,0.5,0.645,0.001
+3,True,True,english,l1,"(1, 1)",,False,False,,0.5,0.645,0.001
+18,True,True,,l1,"(1, 3)",,False,False,,2,0.645,0.001
+17,True,True,english,l1,"(1, 3)",10000,False,True,,3,0.643,0.004
+13,False,True,english,l2,"(1, 2)",10000,True,True,balanced,6,0.624,0.026
+12,True,True,english,l2,"(1, 1)",,True,True,balanced,6,0.6,0.023
+8,False,True,,l2,"(1, 2)",,False,True,balanced,3,0.597,0.025
+2,False,False,,l2,"(1, 3)",20000,True,False,balanced,8,0.595,0.014
+6,True,True,,l2,"(1, 1)",50000,True,True,balanced,6,0.585,0.033
+14,True,True,english,l1,"(1, 2)",10000,False,True,balanced,4,0.573,0.033
+19,False,False,,l2,"(1, 3)",,False,True,balanced,0.5,0.54,0.028
