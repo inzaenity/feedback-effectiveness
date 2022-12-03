@@ -31,7 +31,16 @@ For this project I explore Traditional Algorithms and CNNs
 |glove.6B.50d.txt    | GloVe embedding file,  from https://nlp.stanford.edu/projects/glove/ which is inside the glove.6B.zip
 |contractions.csv    | small dataset of English contractions
 
+**Results**
 
-
+|Discourse type      | Best algorithm             | Test log loss                                                                                                                    
+|--------------------|:--------------------------:|:------------|
+|Lead   | Logistic regression| 0.812
+|Position      |Logistic regression | 0.762
+|Claim    | Logistic regression | 0.813
+|Evidence |Logistic regression | 0.815
+|Counterclaim|Logistic regression | 0.804
+|Rebuttal   | Logistic regression | 0.928                                         
+|Concluding statement           |Logistic regression | 0.773
 
 
